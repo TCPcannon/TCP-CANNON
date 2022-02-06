@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tcpcannon" alt="tcpcannon" /></a> </p>
 
-- 🔭 I’m currently working on [my webpage](WEBPAGE_LINK_GITHUB)
+- 🔭 I’m currently working on [tcpcannon.github.io](tcpcannon.github.io/index.html)
 
 - 🌱 I’m currently learning **Cyber Security / Computer Science Technology**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO_LINK](PORTFOLIO_LINK)
+- 👨‍💻 All of my projects are available at [tcpcannon.github.io](tcpcannon.github.io/projects/projects.html)
 
-- 📄 Know about my experiences [RESUME_LINK](RESUME_LINK)
+- 📄 Know about my experiences [tcpcannon.github.io](tcpcannon.github.io/resume/resume.html)
 
 - ⚡ Fun fact **I can solve a rubiks cube fairly quick**
 
