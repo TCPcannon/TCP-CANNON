@@ -1,18 +1,17 @@
 <h1 align="center">Jordan Cannon</h1>
 
-- 🔭 I’m currently working on [my webpage](WEBPAGE_LINK_GITHUB)
+- 🔭 I’m currently working on <a href="https://tcpcannon.github.io/index.html">tcpcannon.github.io</a>
 
 - 🌱 I’m currently learning **Cyber Security / Computer Science Technology**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO_LINK](PORTFOLIO_LINK)
+- 👨‍💻 All of my projects are available at <a href="https://tcpcannon.github.io/projects/projects.html">tcpcannon.github.io</a>
 
-- 📄 Know about my experiences [RESUME_LINK](RESUME_LINK)
+- 📄 Know about my experiences <a href="https://tcpcannon.github.io/resume/resume.html">tcpcannon.github.io</a>
 
 - ⚡ Fun fact **I can solve a rubiks cube fairly quick**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
