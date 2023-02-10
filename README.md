@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on <a href="<b>REDACTED</b>"><b>REDACTED</b></a>
 
-- 🌱 I’m currently learning **Cyber Security / Computer Science Technology**
+- 🌱 I’m currently learning **Cyber Security / IT MANAGEMENT**
 
 - 👯 I’m looking to collaborate on **anything**
 
